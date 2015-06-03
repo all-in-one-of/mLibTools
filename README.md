@@ -1,2 +1,4 @@
 # mLibTools
-Houdini HDA's
+Houdini HDA's by David Fuhrer
+
+Feel Free to use or modify.
